@@ -23,10 +23,10 @@
 
 
 <div style="width: 80%; overflow: hidden;"> 
-<div>
+ <div style="width: 600px; float: left;"> 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukulwadhwa&show_icons=true&locale=en&layout=compact" alt="mukulwadhwa" /></p> 
 </div>
-<div>
+<div style="margin-left: 620px;">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukulwadhwa&show_icons=true&locale=en" alt="mukulwadhwa" /></p>
 </div>
 </div>
