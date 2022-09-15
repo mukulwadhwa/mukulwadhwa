@@ -30,4 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukulwadhwa&show_icons=true&locale=en" alt="mukulwadhwa" /></p>
 </div>
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukulwadhwa&" alt="mukulwadhwa" /></p>
+<div class="d-flex p-2"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukulwadhwa&" alt="mukulwadhwa" /></p></div>
