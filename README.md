@@ -5,7 +5,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukulwadhwa" alt="mukulwadhwa" /></a> </p> -->
 
-- 🌱 I’m currently learning **Laravel, Django**
+- 💬 Ask me about Python, C++, PHP and Laravel Framework
+
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mukulwadhwa](https://github.com/mukulwadhwa)
 
