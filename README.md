@@ -27,10 +27,10 @@
 
 <div class="float-container">
 <div class="d-flex justify-content-center">
-  <div class="float-container">
+  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukulwadhwa&show_icons=true&locale=en" alt="mukulwadhwa" /></p>
 </div>
-  </div>
+  
 
-<div class="d-flex justify-content-center"><div class="float-child"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukulwadhwa&" alt="mukulwadhwa" /></p></div></div>
+<div class="d-flex justify-content-center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukulwadhwa&" alt="mukulwadhwa" /></p></div>
 </div>
