@@ -30,7 +30,7 @@
 <div class="float-container" align="center">
 <div class="float-child" align="center">
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukulwadhwa&show_icons=true&locale=en" alt="mukulwadhwa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukulwadhwa&locale=en" alt="mukulwadhwa" /></p>
 </div>
 
 <div class="float-child">
