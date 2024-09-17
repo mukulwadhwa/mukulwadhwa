@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukulwadhwa" alt="mukulwadhwa" /></a> </p> -->
 
-- 💬 Ask me about Python, C++, OOPs, AWS Cloud, Flask and Laravel Framework
+- 💬 Ask me about - Python, AWS Cloud, Flask, C++, OOPs, and Laravel Framework
 
 - 🌱 I’m currently learning **Django**
 
